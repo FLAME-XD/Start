@@ -13,7 +13,7 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
     $ git clone https://github.com/FLAME-XD/Start
     $ cd $HOME/Start
     $ git pull
-    $ python Hapus-Data.py
+    $ python hapus-data.py
 
 
 <h3 align="left">Connect with me:</h3>
